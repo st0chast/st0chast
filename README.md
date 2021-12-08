@@ -1,4 +1,5 @@
 # 🔰🧉😎🌆🎶
+Contact: [@nodes:matrix.org](https://matrix.to/#/@nodes:matrix.org)
 
 - Working on _smol_ projects just so I don't get rusty
 - Currently learning to write better code in C#
